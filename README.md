@@ -13,10 +13,10 @@ I am a Flutter developer with experience in building cross-platform mobile appli
   <a href="https://github.com/hwb06">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="www.linkedin.com/in/hussnain-waheed-7686481a6">
+  <a href="https://www.linkedin.com/in/hussnain-waheed-7686481a6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-   <a href="[https://www.instagram.com/axif_taj](https://www.instagram.com/hussnain_waheed7?igsh=OTdkeXRiaGF4NGk4)">
+   <a href="https://www.instagram.com/hussnain_waheed7/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://dribbble.com/hwb06">
