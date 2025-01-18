@@ -39,8 +39,13 @@ I am proficient in the following technologies and tools that empower me to creat
 I actively contribute to open-source projects and work on various personal projects. Below are some of my highlighted projects:
 
 - **[Project 1 Authify](https://github.com/hwb06/Authify)**: A mobile application built with **Flutter**. A modern authentication solution built with Firebase. This streamlined app offers secure and flexible authentication methods including email/password, phone verification, and Google sign-in. 
-- **[Project 2 Ecomm_App](https://github.com/hwb06/Ecomm_App)**: I completed this Ecommerce app with admin panel using flutter mobile application with backend functionalities.
+- **[Project 2 Ecomm_App](https://github.com/hwb06/Ecomm_App)**: 
+A modern mobile e-commerce application built for clothing and fashion retail. The app provides a seamless shopping experience with features like user authentication, product categorization, cart management, and secure checkout.
 - **[Project 3 NewsHub_With_RESTFUL_APIs](https://github.com/hwb06/NewsHub_With_RESTFUL_APIs)**: NewsApp - Flutter News App with RESTful APIs A Flutter-based news app that fetches real-time news using RESTful APIs. Offers a clean UI with multiple categories, bookmarking, and dynamic updates. Features: Real-time news via RESTful APIs Multiple categories Bookmark articles User-friendly interface
+- **[Project 4 QuizFuzz_with_RestfulApis](https://github.com/hwb06/QuizFuzz_with_RestfulApis)**: QuizFuzz is a modern, interactive quiz application built with Flutter that delivers an engaging learning experience through dynamic quizzes. The application seamlessly integrates with REST APIs to provide real-time quiz content while maintaining a smooth and intuitive user interface.
+- **[Project 5 Flutter_Daily_CalculatorApp](https://github.com/hwb06/Flutter_Daily_CalculatorApp)**: A modern, feature-rich calculator application built with Flutter that combines elegant design with practical functionality. The app includes a welcoming onboarding screen and a professional calculator interface with smooth animations and a clean layout.
+- **[Project 6 Flutter_Covid19_TrackingApp_RestAPIs](https://github.com/hwb06/Flutter_Covid19_TrackingApp_RestAPIs)**: A flexible and user-friendly Flutter app that displays real-time COVID-19 statistics globally. The dashboard shows overall case counts for all countries, with an option to search and view detailed case records for any country. The app provides an intuitive experience with up-to-date data on cases, recoveries, and deaths
+  
 
 
 <br>
