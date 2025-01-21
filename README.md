@@ -45,6 +45,7 @@ A modern mobile e-commerce application built for clothing and fashion retail. Th
 - **[Project 4 QuizFuzz_with_RestfulApis](https://github.com/hwb06/QuizFuzz_with_RestfulApis)**: QuizFuzz is a modern, interactive quiz application built with Flutter that delivers an engaging learning experience through dynamic quizzes. The application seamlessly integrates with REST APIs to provide real-time quiz content while maintaining a smooth and intuitive user interface.
 - **[Project 5 Flutter_Daily_CalculatorApp](https://github.com/hwb06/Flutter_Daily_CalculatorApp)**: A modern, feature-rich calculator application built with Flutter that combines elegant design with practical functionality. The app includes a welcoming onboarding screen and a professional calculator interface with smooth animations and a clean layout.
 - **[Project 6 Flutter_Covid19_TrackingApp_RestAPIs](https://github.com/hwb06/Flutter_Covid19_TrackingApp_RestAPIs)**: A flexible and user-friendly Flutter app that displays real-time COVID-19 statistics globally. The dashboard shows overall case counts for all countries, with an option to search and view detailed case records for any country. The app provides an intuitive experience with up-to-date data on cases, recoveries, and deaths
+- **[Project 7 Flutter_DatingList_RestApis](https://github.com/hwb06/Flutter_DatingList_RestApis)**: A modern dating app UI implementation in Flutter that demonstrates clean architecture, state management, and infinite scrolling with the RandomUser API.
   
 
 
